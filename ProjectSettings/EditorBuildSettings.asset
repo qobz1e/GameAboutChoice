@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e9e1f3cd8ea1eb44f8b308b38582350c
+  - enabled: 1
+    path: Assets/Scenes/PeacefulTest.unity
+    guid: 532f720156fe88a4596200f47f68a566
+  - enabled: 1
+    path: Assets/Scenes/CombatTest.unity
+    guid: bb86be2cbe11bf544a378f422949240d
+  - enabled: 1
+    path: Assets/Scenes/RouteChoice.unity
+    guid: e6c0282e64616cf4895b388fe3926fd8
+  m_configObjects: {}
